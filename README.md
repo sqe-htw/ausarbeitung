@@ -1,2 +1,1 @@
-# ausarbeitung
-Project elaboration
+# Ausarbeitung für die Vorlesung Software Quality Engineering
